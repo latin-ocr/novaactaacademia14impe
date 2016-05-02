@@ -1,0 +1,67 @@
+==77a===
+
+Pour le cas, quand l'Astre dont on a pris deux hau·
+teurs v se trouve dans l’Equateur, le calcu] semble donner
+pour les latitudes cherche'es une expression indetermioee.
+ear la declinaison de l'Astse &tant nulle, on a M z 0 et
+tg D :m ce qui donne sm l: 0. m. Or ayant geimfflsle-
+ment. fin l z M (1 ss tg ΒΝ en substituant les valeurs Μ
+et tg D on a
+
+sm! ,- ᾗ Somme des fin nat. des haut. find ζ οοΐξθ cos cl)
+⁸— cos A'2 < tg C
+faisant maintenant d -ῐ 0 , on a
+s ι- ,. {somme des fin nat. des haut. cos} 9
+m ”““ ’⁴‘ cosA“ th
+dquation, qui, ὲ cause qu'on a gbndralement
+Somme dos fin nat. des haut. Ξ 2 cos A. cos B. sm C
+et pour ce cas 12³1, A ’Ξ {S- ou bien ‘A z 180⁰ *— 39,
+se change en celle—cy: fin lzss cos B. cos C; les deux
+latitudes sont &gales et ορΡοεέεε, et pour les calculer, on a
+
+5
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ξ Diff. des fin nat. des haut.
+
+1 ¹- 9·
+” Ξ Somme dess'nfissj n—{EQ Ξ fin C,
+
+et 2 cosi} 9 cos Β „a
+
+:smB
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Exemple IV.
+
+Le jour d'dquinoxe on ὲ trouv& dans un endroit bo-
+rdal ὲ 1 et 3 heures aprt'es midi ὲ la Montre deux hau·
+tetus vraies du centre du O 28⁰ 53² et 20⁰ 42². On de·
+mande la latitude geogr. du lieu de l’observation.
+
+Fssff 2 Haut„
+

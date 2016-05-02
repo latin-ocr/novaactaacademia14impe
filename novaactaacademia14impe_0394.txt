@@ -1,0 +1,35 @@
+a 734- ..ffl-
+
+5·- 7·
+
+Quand on fait abstraction du mouvement des ansi-
+des, de sorte que w, w‘, peuvent etfe ι’θὲᾱιιῒὲεεὶι comme
+des quantiuis constanieS, les &quations prefficssdentes du
+myon vectem et de la longitude , qui 'dependent de's ex-
+centricite}s‚ peuvent &tre rui-ses sous cette fofme:
+
+δι” Ξ -μ Α co[(L -— ω) -Js- Β cos‘*L -— ivs),
+
+δυ Ξ -ἤ- C sm(t', —- τῦ) 4- D fin(L — vs),
+L &tant un angle varidble, compos& des longit'udes moyen-
+nes l, 2x, des deux plane'neffi et de leurs multiples. Or·
+ces deux termes de chaque e'quation ὧν οῦ 0 v, se 1ὸάωὲ-
+sent ἐι un -seul de la forme
+
+δι’ z: P fin (L -Ρ p), ‹et-*322 :··Q sm(L -μ q),
+P, ρ, Q, q, &tant des quantitefis constantes qui ·d‹÷pendent
+des coefficiens‚ A, B, C, D„ et de la position des apsi÷
+des, w, wf. En etffit, on a
+4- A cosw cosL -4- A..finw fin L.
+4- B cosw‘cosLff- B finw'firiL
+Ξ. Ρ finp cosL ψ Ρ cosp finL,
+et C cosw smL —— C smw cosL
+-4- D cosw'finL s- D finw'cosL
+Ξ Qcosq smL -÷- Qsm q cosL,.
+d'osst il suit
+P finp z Α cosw-†-· B costus,
+P cosp z A finw÷ B finw'‚
+Q fin q .-.- C finw‘ - Β-ῐίιιτσ’,
+Qcosq z C cosw »ὶ- Deosw‘,
+·“ σῖ
+
